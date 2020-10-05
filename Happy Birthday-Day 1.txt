@@ -10,5 +10,5 @@ fun main()
     println("@@@@@@@@@@@@@")
     println("")
     print("You've turned 15 already!!\n")
-    print("14 is a great age to celebrate!")
+    print("15 is a great age to celebrate!")
 }
